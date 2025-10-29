@@ -3,7 +3,7 @@
 🎓A Software Engineer student passionate about Mobile Development, Web Development and backend.
 
 ## 💻Tech Stack
-____________________________________________________________________________________________________________________________________________________________________
+
 **Languages**
 
 C++ | Java | Python | Dart | C# | JavaScript
@@ -15,10 +15,10 @@ HTML | CSS | JavaScript | Django
 **Tools & Platforms**
 
 Flutter | Git | GitHub | VS Code | Android Studio | FireBase Services | Rest APIs
-____________________________________________________________________________________________________________________________________________________________________
+
 
 ## 📌Highlighted Projects
-____________________________________________________________________________________________________________________________________________________________________
+
 - **[Wasfa WebSite](https://github.com/george-ezat/Wasfa-Website)**
 
     Dynamic Recipe Platform – Developed a web application with role-based access control and designed an optimized SQL database schema to efficiently manage over 100 recipes, enabling smooth data retrieval and user interactions.
