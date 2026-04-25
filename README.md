@@ -138,7 +138,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-FF70A6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:jasminemohamed174005@gmail.com">
+<a href="mailto:jasmine.mohammeddel@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-FF9770?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
