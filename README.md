@@ -82,6 +82,16 @@
 
 ## 🌟 Highlighted Projects
 
+### 🔹 City Library Management System  
+✨ Backend system modeling real-world library operations using Object-Oriented Design  
+⚙️ Built a modular system to handle book management, user roles, and borrowing workflows with clear class relationships and separation of concerns  
+🧠 Focused on applying **SOLID principles and core OOP concepts** to ensure maintainability and scalability  
+🛠️ Tech: C#, .NET, OOP, SOLID Principles  
+
+🔗 https://github.com/jasminemohammed1/City-Libaray-System
+
+---
+
 ### 🔹 Wasfa Website  
 ✨ Dynamic recipe platform with role-based access  
 🗄️ Designed optimized SQL database  
