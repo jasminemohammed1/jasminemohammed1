@@ -82,6 +82,16 @@
 
 ## 🌟 Highlighted Projects
 
+
+### 🔹 Bank Management System
+✨ Backend system built using C# and Entity Framework Core (Code First approach)
+🗄️ Designed and managed database schema using EF Core Migrations, ensuring smooth evolution of the database structure over time
+🧩 Applied Separation of Concerns to organize the system into Models, Configurations, Enums, and Helpers for better maintainability and scalability
+⚙️ Focused on building a clean and structured architecture using EF Core, LINQ, and Fluent API configurations
+🛠️ Tech: C#, .NET, Entity Framework Core, SQL Server, Code First, LINQ
+
+🔗 https://github.com/jasminemohammed1/Bank-Management-System
+
 ### 🔹 City Library Management System  
 ✨ Backend system modeling real-world library operations using Object-Oriented Design  
 ⚙️ Built a modular system to handle book management, user roles, and borrowing workflows with clear class relationships and separation of concerns  
