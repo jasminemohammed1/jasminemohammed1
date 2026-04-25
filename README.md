@@ -1,86 +1,89 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Jasmine%20Mohamed&fontSize=45&color=0:4facfe,100:00f2fe&animation=fadeIn" width="100%" />
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Cascadia+Code&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Backend+Developer;C%23+%7C+ASP.NET+Core;Entity+Framework+Core;Database+Enthusiast" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Jasmine%20Mohamed&fontSize=50&color=0:ff9a9e,50:fbc2eb,100:a18cd1&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=26&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Backend+Developer;C%23+Expert;ASP.NET+Core+Developer;Database+Enthusiast" />
+
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 💫 About Me
 
-- 🎓 Computer Science Student  
-- 💻 **Backend Developer** specialized in building scalable systems  
-- ⚙️ Strong foundation in **C# & Advanced C# concepts**  
-- 🧠 Skilled in **LINQ, Delegates, and Problem Solving**  
-- 🗄️ Passionate about **Databases & Entity Framework Core**  
-- 🌐 Working with **ASP.NET Core & MVC**  
+🌸 Computer Science Student  
+💻 Backend Developer passionate about building scalable systems  
+🧠 Strong in **C# & Advanced C# (LINQ, Delegates)**  
+🗄️ Love working with **Databases & EF Core**  
+🚀 Currently improving **ASP.NET Core & MVC skills**  
 
 ---
 
-## 🛠️ Tech Stack
+## 🎨 Tech Stack
 
-### 💻 Backend
+### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+  <img src="https://img.shields.io/badge/C%23-9B5DE5?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-5A189A?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-4361EE?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_MVC-3A0CA3?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 
-- C#  
-- Advanced C# (OOP, LINQ, Delegates)  
-- ASP.NET Core  
-- ASP.NET MVC  
-- Entity Framework Core (EFC)  
-
----
+### 🧠 Advanced Concepts
+<p align="center">
+  <img src="https://img.shields.io/badge/LINQ-FF006E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Delegates-F15BB5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-00BBF9?style=for-the-badge"/>
+</p>
 
 ### 🗄️ Database
-- SQL Server  
-- Database Design  
-- Query Optimization  
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-00B4D8?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-90DBF4?style=for-the-badge"/>
+</p>
+
+### 🚀 Tools & Others
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F77F00?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-FCBF49?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-E36414?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-4CC9F0?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
 
 ---
 
-### 📱 Other Skills
-- Flutter  
-- REST APIs  
-- Firebase  
-- Git & GitHub  
-
----
-
-## 📌 Highlighted Projects
+## 🌟 Highlighted Projects
 
 ### 🔹 Wasfa Website  
-Dynamic Recipe Platform with role-based access  
-- Designed optimized SQL database schema  
-- Managed 100+ recipes efficiently  
+✨ Dynamic recipe platform with role-based access  
+🗄️ Designed optimized SQL database  
 
 🔗 https://github.com/george-ezat/Wasfa-Website  
 
 ---
 
 ### 🔹 Learning App  
-Flutter learning app with APIs & state management  
+📱 Flutter app with APIs & state management  
 
 🔗 https://github.com/Menna1177/language_app  
 
 ---
 
 ### 🔹 Social Media App  
-Built using Firebase Authentication & Firestore  
+🔥 Firebase Authentication & Firestore  
 
 🔗 https://github.com/jasminemohammed1/Social_media_app_iti_training  
 
 ---
 
 ### 🔹 Games App  
-C++ program with 9 games applying OOP principles  
+🎮 C++ project applying OOP principles  
 
 🔗 https://github.com/mhmdashraf11/Assignment2Games  
 
 ---
 
 ### 🔹 Cipher App  
-Encryption & decryption using Route Cipher algorithm  
+🔐 Encryption & Decryption system  
 
 🔗 https://github.com/jasminemohammed1/Encryption-System  
 
@@ -89,34 +92,34 @@ Encryption & decryption using Route Cipher algorithm
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jasminemohammed1&show_icons=true&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminemohammed1&layout=compact&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jasminemohammed1&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminemohammed1&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jasminemohammed1&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=jasminemohammed1&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jasmine-mohamed-b80963328">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-FF70A6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:jasminemohamed174005@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:jasmine.mohammeddel@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-FF9770?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## 📄 Resume
+## 📄 My Resume
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1-OJhrTlgqjuq9Rlz99P7ChEAChXmRI-W/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Download%20My%20CV-00C2CB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+    <img src="https://img.shields.io/badge/Download%20CV-8338EC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
