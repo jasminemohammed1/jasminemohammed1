@@ -92,6 +92,8 @@
 
 🔗 https://github.com/jasminemohammed1/Bank-Management-System
 
+---
+
 ### 🔹 City Library Management System  
 ✨ Backend system modeling real-world library operations using Object-Oriented Design  
 ⚙️ Built a modular system to handle book management, user roles, and borrowing workflows with clear class relationships and separation of concerns  
