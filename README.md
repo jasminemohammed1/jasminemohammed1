@@ -85,10 +85,15 @@
 ### 🔹 Gym Management System
 
 ✨ ASP.NET Core MVC application for gym management and membership tracking
+
 🏗️ Implemented Layered Architecture, Repository Pattern, Generic Repository, Unit of Work, and Service Layer patterns
+
 🔐 Integrated ASP.NET Identity for Authentication & Authorization
+
 🛠️ Tech: ASP.NET Core MVC, C#, EF Core, SQL Server, AutoMapper
+
 🔗 https://github.com/jasminemohammed1/GymManagemt
+
 
 
 
