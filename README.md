@@ -79,7 +79,6 @@
 </p>
 
 ---
-
 ## 🌟 Highlighted Projects
 
 ### 🔹 Gym Management System
@@ -94,10 +93,10 @@
 
 🔗 https://github.com/jasminemohammed1/GymManagemt
 
-
-
+---
 
 ### 🔹 Bank Management System
+
 ✨ Backend system built using C# and Entity Framework Core (Code First approach)
 
 🗄️ Designed and managed database schema using EF Core Migrations, ensuring smooth evolution of the database structure over time
@@ -112,49 +111,59 @@
 
 ---
 
-### 🔹 City Library Management System  
-✨ Backend system modeling real-world library operations using Object-Oriented Design  
-⚙️ Built a modular system to handle book management, user roles, and borrowing workflows with clear class relationships and separation of concerns  
-🧠 Focused on applying **SOLID principles and core OOP concepts** to ensure maintainability and scalability  
-🛠️ Tech: C#, .NET, OOP, SOLID Principles  
+### 🔹 City Library Management System
+
+✨ Backend system modeling real-world library operations using Object-Oriented Design
+
+⚙️ Built a modular system to handle book management, user roles, and borrowing workflows with clear class relationships and separation of concerns
+
+🧠 Focused on applying **SOLID principles and core OOP concepts** to ensure maintainability and scalability
+
+🛠️ Tech: C#, .NET, OOP, SOLID Principles
 
 🔗 https://github.com/jasminemohammed1/City-Libaray-System
 
 ---
 
-### 🔹 Wasfa Website  
-✨ Dynamic recipe platform with role-based access  
-🗄️ Designed optimized SQL database  
+### 🔹 Wasfa Website
 
-🔗 https://github.com/george-ezat/Wasfa-Website  
+✨ Dynamic recipe platform with role-based access
 
----
+🗄️ Designed optimized SQL database
 
-### 🔹 Learning App  
-📱 Flutter app with APIs & state management  
-
-🔗 https://github.com/Menna1177/language_app  
+🔗 https://github.com/george-ezat/Wasfa-Website
 
 ---
 
-### 🔹 Social Media App  
-🔥 Firebase Authentication & Firestore  
+### 🔹 Learning App
 
-🔗 https://github.com/jasminemohammed1/Social_media_app_iti_training  
+📱 Flutter app with APIs & state management
 
----
-
-### 🔹 Games App  
-🎮 C++ project applying OOP principles  
-
-🔗 https://github.com/mhmdashraf11/Assignment2Games  
+🔗 https://github.com/Menna1177/language_app
 
 ---
 
-### 🔹 Cipher App  
-🔐 Encryption & Decryption system  
+### 🔹 Social Media App
 
-🔗 https://github.com/jasminemohammed1/Encryption-System  
+🔥 Firebase Authentication & Firestore
+
+🔗 https://github.com/jasminemohammed1/Social_media_app_iti_training
+
+---
+
+### 🔹 Games App
+
+🎮 C++ project applying OOP principles
+
+🔗 https://github.com/mhmdashraf11/Assignment2Games
+
+---
+
+### 🔹 Cipher App
+
+🔐 Encryption & Decryption system
+
+🔗 https://github.com/jasminemohammed1/Encryption-System
 
 ---
 
